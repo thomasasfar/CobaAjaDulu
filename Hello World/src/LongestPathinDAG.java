@@ -2,6 +2,7 @@
 import java.util.Scanner;
 import java.util.Vector;
  
+// Ini adalah Command
 class Node
 {
     int             name; // node ID, started from 0 to n-1
